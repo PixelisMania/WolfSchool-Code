@@ -1,0 +1,31 @@
+main: me.pixelmania.wolfschool.main.Core
+name: WolfSchool
+version: 1.0.1a
+author: PixelMania
+
+depend: [WorldGuard, PermissionsEx]
+
+commands:
+   tc:
+      usage: |
+         usage: </command> <message>
+         usage: </command> toggle
+   addclass:
+      usage: </command> <classname>
+   class:
+      usage: </command> <start/end> <classname>
+   setoffice:
+      usage: </command>
+   sendoffice:
+      usage: </command> <player>
+   teacher:
+      usage: </command> <player> promote teacher
+   schoolannounce:
+      usage: /<command> <chat/title> <message>
+   enroll:
+      usage: /<command> <player>
+   removeclass:
+      usage: /<command> <classname>
+   wolfschool:
+      usage: /<command>
+      description: Reloads the config.yml
