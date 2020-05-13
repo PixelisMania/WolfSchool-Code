@@ -1,0 +1,32 @@
+class-regions:
+   
+office-location:
+   
+messages:
+   classroom-chat-format: "&b&l</classname> &b(</player>) > </message>"
+   teacher-chat-format: "&a&lTeacher &a(</player>) > </message>"
+   no-permission: "&7[ &bWolf School &7] &fYou don't have permission to use that command!"
+   teacher-chatting-toggled: "&7[ &bWolf School &7] &fTeacher chatting toggled </status>"
+   invalid-usage: "&7[ &bWolf School &7] &fInvalid usage. Use </usage>"
+   added-class: "&7[ &bWolf School &7] &fThe region </region> is now a(n) </classname> class"
+   class-already-started: "&7[ &bWolf School &7] &fThat class has already started!"
+   class-started: "&7[ &bWolf School &7] &fThat class has been started!"
+   class-not-started: "&7[ &bWolf School &7] &fThat class is not started!"
+   class-ended: "&7[ &bWolf School &7] &fThat class has ended!"
+   class-doesnt-exist: "&7[ &bWolf School &7] &fThat class doesn't exist!"
+   class-list: "&7[ &bWolf School Classes &7: &f</classes>"
+   invalid-player: "&7[ &bWolf School &7] &fInvalid player name!"
+   office-not-set: "&7[ &bWolf School &7] &fThe office location is not set!"
+   sent-to-office: "&7[ &bWolf School &7] &fYou were sent to the office by </player>!"
+   office-set: "&7[ &bWolf School &7] &fSuccessfully set the office location!"
+   promoted-teacher: "&7[ &bWolf School &7] &f</player> was promoted to a teacher!"
+   already-teacher: "&7[ &bWolf School &7] &f</player> is already a teacher!"
+   schoolannounce-chat-format: "&7[ &bSchool Announcement &7: &f</announcement>"
+   schoolannounce-title-format: "&bSchool Announcement"
+   already-enrolled: "&7[ &bWolf School &7] &f</player> is already enrolled!"
+   player-enrolled: "&7[ &bWolf School &7] &f</player> is now enrolled!"
+   reloaded-config: "&7[ &bWolf School &7] &fSuccessfully reloaded the config.yml!"
+   not-in-region: "&7[ &bWolf School &7] &fYou need to stand in a WorldGuard region to use this command!"
+   removed-class: "&7[ &bWolf School &7] &fThe class </classname> is now removed!"
+   not-a-teacher: "&7[ &bWolf School &7] &f</player> is not a teacher!"
+   demoted-teacher: "&7[ &bWolf School &7] &f</player> was demoted from teacher!"
